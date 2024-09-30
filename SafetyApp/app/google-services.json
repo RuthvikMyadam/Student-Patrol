@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224405456451",
+    "project_id": "safetyapp-uta",
+    "storage_bucket": "safetyapp-uta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224405456451:android:395babee0679460a3436f6",
+        "android_client_info": {
+          "package_name": "com.uta.safetyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224405456451-4ttab3ostce0fgbsp53biu5vsu7v90v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDfT1-OzrPuboEebBZ9Aegze37Wz2ozE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224405456451-4ttab3ostce0fgbsp53biu5vsu7v90v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
